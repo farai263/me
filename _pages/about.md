@@ -1,12 +1,12 @@
 ---
 permalink: /
-title: "About Ninjas"
+title: "About Farai"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This where you tell us about yourself, and your practise.
+This is my artist's statement and minifesto.
 
  
