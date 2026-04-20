@@ -4,8 +4,6 @@ excerpt: "Interactive fiction based on excerpt from the novella, Green Shadows i
 collection: portfolio
 ---
 
-<img src='/images/roadblock-2.jpg'>
-
 <img src="{{ '/images/roadblock-2.jpg' | relative_url }}">
 
 <div class="project-item">
