@@ -6,6 +6,8 @@ collection: portfolio
 
 <img src='/images/roadblock-2.jpg'>
 
+<img src="{{ '/images/roadblock-2.jpg' | relative_url }}">
+
 <div class="project-item">
   <h3>Green Shadows at the Roadblock</h3>
   <p>An interactive narrative created with Twine exploring what trivial corruption costs ordinary people, and the impossible arithmetic of surviving a system that was never designed to treat you fairly.</p>
