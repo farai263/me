@@ -6,7 +6,7 @@ collection: portfolio
 
 <div class="project-item">
   <h3>Interactive Story Game</h3>
-  <p>An interactive narrative created with Twine exploring [your theme]</p>
+  <p>An interactive narrative created with Twine exploring what trivial corruption costs ordinary people, and the impossible arithmetic of surviving a system that was never designed to treat you fairly.</p>
   <a href="../green_shadows_at_the_roadblock.html" target="_blank" class="btn">Play Game</a>
 </div>
 
