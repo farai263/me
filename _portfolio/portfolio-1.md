@@ -1,8 +1,10 @@
 ---
 title: "Critical Making Project"
-excerpt: "Interactive fiction based on excerpt from the novella, Green Shadows in the Kiya Kiya Republic <br/><img src='/images/roadblock-2.jpg'>"
+excerpt: "Interactive fiction based on excerpt from the novella, Green Shadows in the Kiya Kiya Republic <br/>"
 collection: portfolio
 ---
+
+<img src='/images/roadblock-2.jpg'>
 
 <div class="project-item">
   <h3>Green Shadows at the Roadblock</h3>
