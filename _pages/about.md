@@ -11,4 +11,8 @@ Farai Mudzingwa is a writer whose fiction, in his own words, is influenced by mu
 
 The two digital works in this portfolio extend that thematic focus into new media. A maker-scholar practice rooted in the intimate and the political, in grief held privately and injustice experienced publicly. Both the Bitsy game and the Twine game embrace game studies and propose that a work's structure is its argument. That how readers/players are asked to move through something is inseparable from what it is trying to say. In these works, the scholarship is the making.
 
+
+ <img src="{{ '/images/kiya_kiya_screenshot.png' | relative_url }}">
  
+
+ <img src="{{ '/images/heaven_doggies_screenshot.png' | relative_url }}">
