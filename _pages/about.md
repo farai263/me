@@ -19,5 +19,5 @@ Green Shadows at the Roadblock is a Twine game adapted from a scene in Mudzingwa
  
  <img src="{{ '/images/heaven_doggies_screenshot.png' | relative_url }}">
 
-*All Doggies Go To Heaven* is a short Bitsy game poem. The player moves through three rooms depicting childhood, life and the afterlife. The narrative follows the desire, experience and loss of a succession of childhood dogs. The game draws on the theme of unresolved loss that runs through Mudzingwa's *Avenues by Train*, and translates it into spatial terms. The game allows the player to walk through the grief, rather than read about it. Small losses accumulate into a heaviness that can only be resolved somewhere beyond the living world. 
+*All Doggies Go To Heaven* is a short Bitsy game poem. The player moves through three rooms depicting childhood, life and the afterlife. The narrative follows the desire, experience and loss of a succession of childhood dogs. The game draws on the theme of unresolved loss that runs through Mudzingwa's *Avenues by Train*, in particular, the earlier chapters of the novel, and translates it into spatial terms. The game allows the player to walk through the grief, rather than read about it. Small losses accumulate into a heaviness that can only be resolved somewhere beyond the living world. 
  
