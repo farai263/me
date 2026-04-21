@@ -1,6 +1,6 @@
 ---
 title: "Critical Making Project"
-excerpt: "Interactive fiction based on excerpt from the novella, Green Shadows in the Kiya Kiya Republic <br/>"
+excerpt: "Interactive fiction based on an excerpt from the novella, *Green Shadows in the Kiya Kiya Republic* <br/>"
 collection: portfolio
 ---
 
@@ -8,7 +8,7 @@ collection: portfolio
 
 <div class="project-item">
   <h3>Green Shadows at the Roadblock</h3>
-  <p>An interactive narrative created with Twine exploring what trivial corruption costs ordinary people, and the impossible arithmetic of surviving a system that was never designed to treat you fairly.</p>
+  <p>An interactive narrative exploring what trivial corruption costs ordinary people.</p>
   <a href="../green_shadows_at_the_roadblock.html" target="_blank" class="btn">Enter the Shadow</a>
 </div>
 
