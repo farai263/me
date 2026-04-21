@@ -13,6 +13,11 @@ The two digital works in this portfolio extend that thematic focus into new medi
 
 
  <img src="{{ '/images/kiya_kiya_screenshot.png' | relative_url }}">
- 
 
+Green Shadows at the Roadblock is a Twine game adapted from a scene in Mudzingwa's novella *Green Shadows in the Kiya Kiya Republic*, and places the player inside a routine police shakedown on the Harare–Chinhoyi road. The player navigates a bureaucratic power imbalance while tracking money, dignity and trouble as game resources. The game extends the political and satirical tone of Mudzingwa's prose into an interactive form, asking the player to be an actor in the mechanics of engaging a corrupt system. Every narrative branch costs something. There is no clean exit. The Lamborghini that passes through untouched, the mysterious man whose business card deflates a sergeant's authority, the Life Coach who is simply unseen are all figures from the novella that become interactive moral reference points.
+
+ 
  <img src="{{ '/images/heaven_doggies_screenshot.png' | relative_url }}">
+
+*All Doggies Go To Heaven* is a short Bitsy game poem. The player moves through three rooms depicting childhood, life and the afterlife. The narrative follows the desire, experience and loss of a succession of childhood dogs. The game draws on the theme of unresolved loss that runs through Mudzingwa's *Avenues by Train*, and translates it into spatial terms. The game allows the player to walk through the grief, rather than read about it. Small losses accumulate into a heaviness that can only be resolved somewhere beyond the living world. 
+ 
